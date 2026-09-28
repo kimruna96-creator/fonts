@@ -1,0 +1,61 @@
+{
+  "fontName": "思源黑体 Source Han Sans SC (Simplified Chinese)",
+  "upstreamRepo": "https://github.com/adobe-fonts/source-han-sans",
+  "version": "2.005R",
+  "releaseUrl": "https://github.com/adobe-fonts/source-han-sans/releases/tag/2.005R",
+  "releasePublishedAt": "2025-06-18T21:21:40Z",
+  "license": {
+    "type": "SIL Open Font License 1.1 (OFL-1.1)",
+    "file": "SourceHanSansSC-LICENSE.txt",
+    "sourceUrl": "https://github.com/adobe-fonts/source-han-sans/releases/download/2.005R/09_SourceHanSansSC.zip (bundled LICENSE.txt)",
+    "redistributionAllowed": true,
+    "note": "Adobe Source Han Sans is licensed under OFL-1.1; license file included unmodified from official release archive."
+  },
+  "sourceArchiveUrl": "https://github.com/adobe-fonts/source-han-sans/releases/download/2.005R/09_SourceHanSansSC.zip",
+  "files": [
+    {
+      "fileName": "SourceHanSansSC-ExtraLight.otf",
+      "format": "OTF",
+      "weight": "ExtraLight",
+      "sizeBytes": 14893644
+    },
+    {
+      "fileName": "SourceHanSansSC-Light.otf",
+      "format": "OTF",
+      "weight": "Light",
+      "sizeBytes": 16460112
+    },
+    {
+      "fileName": "SourceHanSansSC-Normal.otf",
+      "format": "OTF",
+      "weight": "Normal",
+      "sizeBytes": 16525388
+    },
+    {
+      "fileName": "SourceHanSansSC-Regular.otf",
+      "format": "OTF",
+      "weight": "Regular",
+      "sizeBytes": 16529832
+    },
+    {
+      "fileName": "SourceHanSansSC-Medium.otf",
+      "format": "OTF",
+      "weight": "Medium",
+      "sizeBytes": 16546328
+    },
+    {
+      "fileName": "SourceHanSansSC-Bold.otf",
+      "format": "OTF",
+      "weight": "Bold",
+      "sizeBytes": 16963428
+    },
+    {
+      "fileName": "SourceHanSansSC-Heavy.otf",
+      "format": "OTF",
+      "weight": "Heavy",
+      "sizeBytes": 17614484
+    }
+  ],
+  "downloadedAt": "2026-09-28T11:36:42.975Z",
+  "originalFilesModified": false
+}

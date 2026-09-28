@@ -4,7 +4,7 @@
 
 | 용도 | 폰트 | 보관 내용 |
 |---|---|---|
-| 큰 제목 | 阿里巴巴普惠体 Alibaba PuHuiTi | 아래 공식 다운로드 링크만 제공. 공개 재배포 권한이 명확하지 않아 바이너리 제외 |
+| 큰 제목 | 阿里巴巴普惠体 Alibaba PuHuiTi | 아래 공식 다운로드 링크만 제공. 2.0 동봉 약관상 사전 허가 없는 업로드·재게시 금지로 바이너리 제외 |
 | 개성 있는 제목 | 得意黑 Smiley Sans v2.0.1 | SmileySans-Oblique.ttf, 단일 기울임 스타일 |
 | 본문·설명 | 思源黑体 Source Han Sans SC 2.005R | OTF 7굵기: ExtraLight, Light, Normal, Regular, Medium, Bold, Heavy |
 | 감사 문구 | 霞鹜文楷 LXGW WenKai v1.522 | Light, Regular, Medium TTF 원본을 각각 ZIP으로 보관 |
@@ -26,7 +26,7 @@ TTF/OTF는 내려받아 설치하세요. LXGW WenKai는 웹 업로드 크기 제
 - [공식 2.0 전체 다운로드](https://ics-static.oss-cn-hangzhou.aliyuncs.com/static/ucan/Alibaba_PuHuiTi2.0.zip)
 - [공식 3.0 법적 고지](https://www.yuque.com/yiguang-wkqc2/puhuiti/nus9wiinq4aeiegy)
 - 2026-09-28 확인: 홈페이지에는 3.0이 있으나 해당 다운로드 서버 접근이 실패하여 별도 로컬 다운로드는 공식 2.0 배포본으로 확보했습니다.
-- 무료 상업적 사용 허용과 공개 재배포 허용은 다릅니다. 공식 고지에서 공개 저장소 재배포 허용을 확인하지 못했으므로 이 저장소에는 알리바바 폰트 파일을 올리지 않습니다. 공식 출처에서 직접 다운로드하고 동봉 고지를 확인하세요.
+- 무료 상업적 사용 허용과 공개 재배포 허용은 다릅니다. 다운로드한 2.0 동봉 법적 고지 제4조는 사전 허가 없는 "upload, post or repost Alibaba Font"를 명시적으로 금지합니다. 따라서 이 저장소에는 알리바바 폰트 파일을 올리지 않습니다. 공식 출처에서 직접 다운로드하고 동봉 고지를 확인하세요.
 
 ### 得意黑 Smiley Sans
 

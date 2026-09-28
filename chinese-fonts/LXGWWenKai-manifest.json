@@ -1,0 +1,45 @@
+{
+  "fontName": "霞鹜文楷 LXGW WenKai",
+  "upstreamRepo": "https://github.com/lxgw/LxgwWenKai",
+  "version": "v1.522",
+  "releaseUrl": "https://github.com/lxgw/LxgwWenKai/releases/tag/v1.522",
+  "releasePublishedAt": "2026-03-17T15:15:14Z",
+  "license": {
+    "type": "SIL Open Font License 1.1 (OFL-1.1)",
+    "file": "LXGWWenKai-OFL.txt",
+    "sourceUrl": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/v1.522/OFL.txt",
+    "redistributionAllowed": true,
+    "note": "OFL-1.1 permits bundling/redistribution with original license text included."
+  },
+  "files": [
+    {
+      "fileName": "LXGWWenKai-Light.ttf",
+      "format": "TTF",
+      "weight": "Light",
+      "downloadUrl": "https://github.com/lxgw/LxgwWenKai/releases/download/v1.522/LXGWWenKai-Light.ttf",
+      "sizeBytes": 28267156
+    },
+    {
+      "fileName": "LXGWWenKai-Regular.ttf",
+      "format": "TTF",
+      "weight": "Regular",
+      "downloadUrl": "https://github.com/lxgw/LxgwWenKai/releases/download/v1.522/LXGWWenKai-Regular.ttf",
+      "sizeBytes": 25575676
+    },
+    {
+      "fileName": "LXGWWenKai-Medium.ttf",
+      "format": "TTF",
+      "weight": "Medium",
+      "downloadUrl": "https://github.com/lxgw/LxgwWenKai/releases/download/v1.522/LXGWWenKai-Medium.ttf",
+      "sizeBytes": 25379848
+    }
+  ],
+  "excluded": [
+    "LXGWWenKaiMono-Light.ttf",
+    "LXGWWenKaiMono-Medium.ttf",
+    "LXGWWenKaiMono-Regular.ttf (Mono variants excluded per request)"
+  ],
+  "downloadedAt": "2026-09-28T11:36:43.008Z",
+  "originalFilesModified": false,
+  "repositoryPackaging": "Each TTF is preserved unchanged in a same-base-name ZIP, with original OFL.txt included."
+}

@@ -1,0 +1,26 @@
+{
+  "fontName": "得意黑 Smiley Sans",
+  "upstreamRepo": "https://github.com/atelier-anchor/smiley-sans",
+  "version": "v2.0.1",
+  "releaseUrl": "https://github.com/atelier-anchor/smiley-sans/releases/tag/v2.0.1",
+  "releasePublishedAt": "2024-02-07T10:27:43Z",
+  "license": {
+    "type": "SIL Open Font License 1.1 (OFL-1.1)",
+    "file": "SmileySans-LICENSE",
+    "sourceUrl": "https://raw.githubusercontent.com/atelier-anchor/smiley-sans/v2.0.1/LICENSE",
+    "redistributionAllowed": true,
+    "note": "OFL-1.1 permits bundling/redistribution with original license text included; Reserved Font Names Smiley/得意黑 apply."
+  },
+  "files": [
+    {
+      "fileName": "SmileySans-Oblique.ttf",
+      "format": "TTF",
+      "weight": "Regular (single style, oblique design)",
+      "sourceArchiveUrl": "https://github.com/atelier-anchor/smiley-sans/releases/download/v2.0.1/smiley-sans-v2.0.1.zip",
+      "sizeBytes": 2629764,
+      "note": "Only TTF variant provided upstream for desktop use; extracted unmodified from official release zip."
+    }
+  ],
+  "downloadedAt": "2026-09-28T11:36:42.888Z",
+  "originalFilesModified": false
+}
